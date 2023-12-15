@@ -1,0 +1,20 @@
+{
+  "name": "PrivateChat",
+  "version": "1.0.0",
+  "description": "Chat with your friends in a private chat room!",
+  "main": "app.js",
+  "author": "Mustaqeem Khowaja",
+  "keywords": [
+    "chat",
+    "private",
+    "connect"
+  ],
+  "author": "Mustaqeem Khowaja",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.8.2",
+    "gravatar": "~1.0.6",
+    "socket.io": "^1.0.6"
+  }
+}
